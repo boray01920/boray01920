@@ -17,7 +17,7 @@ Lorem ipsum dolor sit amet
 ![Discord Presence](https://lanyard.cnrad.dev/api/373495325668671488)
 
 -------
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BoraY1923&theme=solarized_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=boray01920&theme=solarized_dark)
 -------
 ```javascript
 
