@@ -19,7 +19,7 @@ Lorem ipsum dolor sit amet
 -------
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=boray01920&theme=solarized_dark)
 -------
-```javascript
+<!--```javascript
 
 import figlet from 'figlet';
 
@@ -41,4 +41,4 @@ figlet('BoraY', function(err, data) {
  |____/ \___/|_|  \__,_||_| 
 
 */
-```
+```-->
