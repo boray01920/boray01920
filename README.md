@@ -11,7 +11,7 @@ width="30" heigh="30">
 
 
 ----------
-Lorem ipsum dolor sit amet
+
 -----------
 
 <!--![Discord Presence](https://lanyard.cnrad.dev/api/373495325668671488)
