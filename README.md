@@ -14,12 +14,12 @@ width="30" heigh="30">
 Lorem ipsum dolor sit amet
 -----------
 
-![Discord Presence](https://lanyard.cnrad.dev/api/373495325668671488)
+<!--![Discord Presence](https://lanyard.cnrad.dev/api/373495325668671488)
 
 -------
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=boray01920&theme=solarized_dark)
 -------
-<!--```javascript
+```javascript
 
 import figlet from 'figlet';
 
