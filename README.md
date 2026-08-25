@@ -7,7 +7,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="30" height="30" >
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="30" height="30">
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="30" height="30">
-    <img src="https://developer.valvesoftware.com/w/images/thumb/3/3b/Quake1-16px.png/15px-Quake1-16px.png"
+    <img src="https://onlinegiftools.com/images/examples-onlinegiftools/quad-damage.gif"
 width="30" heigh="30">
 </div>
 
