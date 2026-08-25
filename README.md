@@ -5,7 +5,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="30" height="30">
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="30" height="30">
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="30" height="30" >
-    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="30" height="30">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="30" height="30">
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="30" height="30">
     <img src="https://joshuaskelly.gallerycdn.vsassets.io/extensions/joshuaskelly/quakec/0.2.3/1696537488969/Microsoft.VisualStudio.Services.Icons.Default"
 width="30" heigh="30">
