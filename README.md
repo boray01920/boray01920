@@ -1,5 +1,5 @@
 ###
-<div>
+<!--<div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="30" height="30" set draggable="false">
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="30" height="30">
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="30" height="30">
@@ -9,8 +9,9 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="30" height="30">
     <img src="https://onlinegiftools.com/images/examples-onlinegiftools/quad-damage.gif"
 width="30" heigh="30">
-</div>
+</div>-->
 
+<img src="https://images-ext-1.discordapp.net/external/rTSCJ7_xkBr5tmdc1pcqrnZa2kF3IQNPnb3VthbKRT8/https/gif.fxtwitter.com/tweet_video/HQIqfJabwAAkm-i.webp?animated=true" width="50" height="50">
 
 ----------
 
