@@ -10,10 +10,8 @@
     <img src="https://onlinegiftools.com/images/examples-onlinegiftools/quad-damage.gif"
 width="30" heigh="30">
 </div>-->
-
-<img src="https://images-ext-1.discordapp.net/external/rTSCJ7_xkBr5tmdc1pcqrnZa2kF3IQNPnb3VthbKRT8/https/gif.fxtwitter.com/tweet_video/HQIqfJabwAAkm-i.webp?animated=true" width="50" height="50">
-
 ----------
+<img src="https://images-ext-1.discordapp.net/external/rTSCJ7_xkBr5tmdc1pcqrnZa2kF3IQNPnb3VthbKRT8/https/gif.fxtwitter.com/tweet_video/HQIqfJabwAAkm-i.webp?animated=true" width="200" height="200">
 
 -----------
 
